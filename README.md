@@ -13,7 +13,7 @@
 
 <b>some other programs related to this module are  also provided as a program file.</b>
 
-<some other programs related to this module is:-</b>
+some other programs related to this module is:-</b>
 
 1. star rectangle pattern.
 2. alphabetic triangle pattern.
