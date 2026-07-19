@@ -10,3 +10,24 @@
 8. star diamond pattern
 
 <b>All these topics are covered on this module.</b>
+
+<b>some other programs related to this module are  also provided as a program file.</b>
+
+<some other programs related to this module is:-</b>
+
+1. star rectangle pattern.
+2. alphabetic triangle pattern.
+3. alphabetic square pattern.
+4. alphanumeric pattern.
+5. even number right triangle pattern.
+6. hollow rectangle pattern.
+7. inverted left side triangle pattern.
+8. inverted right side triangle pattern.
+9. number pyramid pattern.
+10. numeric rectangle pattern.
+11. number window pattern.
+12. odd number right triangle pattern.
+13. parallelogram pattern.
+14. star cross pattern.
+15. star plus pattern.
+
